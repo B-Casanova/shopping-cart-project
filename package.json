@@ -1,0 +1,20 @@
+{
+  "name": "shopping-cart-project",
+  "version": "1.0.0",
+  "description": "You will be creating the core functionality used for a storefront application. The visual of the storefront as well as the JavaScript necessary to connect the code you will write, to that visual have already been created.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Casanova/shopping-cart-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Casanova/shopping-cart-project/issues"
+  },
+  "homepage": "https://github.com/B-Casanova/shopping-cart-project#readme"
+}
